@@ -1,4 +1,3 @@
-# newrem
 # vue-cli4.x + vant 配置基于 Rem 的适配方案
 ```
 npm install
